@@ -13,6 +13,7 @@ Hi, 👋 I'm Leon Leibmann. I'm a software developer and computer science studen
 <img align="top" src="https://github-readme-stats.vercel.app/api?username=Pop101&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide=issues,contribs">
 </div>
 
+---
 <!--START_SECTION:activity-->
 1. 📦 Pushed to [Pop101](https://github.com/Pop101/Pop101)
 2. 🎉 Created [Pop101](https://github.com/Pop101/Pop101)
@@ -20,3 +21,5 @@ Hi, 👋 I'm Leon Leibmann. I'm a software developer and computer science studen
 4. 📦 Pushed 11 commits to [Github-full-activity-readme](https://github.com/Pop101/github-full-activity-readme)
 5. 🍴 Forked [Github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) to [Github-full-activity-readme](https://github.com/Pop101/github-full-activity-readme)
 <!--END_SECTION:activity-->
+
+#### Show some ❤️ by starring some of my repositories!
