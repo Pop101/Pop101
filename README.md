@@ -5,7 +5,6 @@ Hi, 👋 I'm Leon Leibmann. I'm a software developer and computer science studen
 - 🌱 At the moment, I'm learning statistics. I'll get to ML eventually.
 - 🌐 Check out [my website](https://leibmann.org)!
 - 📫 You can reach me at [contact@leibmann.org](mailto:contact@leibmann.org)
-- 😜 Fun fact: I love Among Us ඞ
 - 📄 [Resume](https://leibmann.org/Leon_Leibmann_Resume.pdf)
 
 <div align="middle">
@@ -22,4 +21,4 @@ Hi, 👋 I'm Leon Leibmann. I'm a software developer and computer science studen
 5. 🍴 Forked [Github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme) to [Github-full-activity-readme](https://github.com/Pop101/github-full-activity-readme)
 <!--END_SECTION:activity-->
 
-#### Show some ❤️ by starring some of my repositories!
+#### Show some ❤️ by starring some of my repositories
