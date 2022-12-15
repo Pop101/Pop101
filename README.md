@@ -14,7 +14,7 @@ Hi, 👋 I'm Leon Leibmann. I'm a software developer and computer science studen
 
 ---
 <!--START_SECTION:activity-->
-1. 📦 Pushed 2 commits to [Pop101](https://github.com/Pop101/Pop101)
+1. 📦 Pushed 4 commits to [Pop101](https://github.com/Pop101/Pop101)
 2. 🎉 Created [Pop101](https://github.com/Pop101/Pop101)
 3. 🎉 Created [Pop101](https://github.com/Pop101/Pop101)
 4. 📦 Pushed 11 commits to [Github-full-activity-readme](https://github.com/Pop101/github-full-activity-readme)
