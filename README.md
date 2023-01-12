@@ -1,4 +1,5 @@
-Hi, 👋 I'm Leon Leibmann. I'm a software developer and computer science student at the University of Washington. I'm currently working on any one of my 147 project ideas or desperately finding food after a coding sprint.
+# Hi, 👋 I'm Leon Leibmann.
+I'm a software developer and computer science student at the University of Washington. I'm currently working on any one of my 147 project ideas or desperately finding food after a coding sprint.
 
 - 💬 Ask me about Python, Java, JS, or anything else!
 - 🎓 I'm currently studying Computer Science at the University of Washington. ETA: 2024
