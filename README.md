@@ -15,11 +15,11 @@ I'm a software developer and computer science student at the University of Washi
 
 ---
 <!--START_SECTION:activity-->
-1. 🎉 Created [Github-full-activity-readme](https://github.com/Pop101/github-full-activity-readme)
-2. 📦 Pushed to [Github-full-activity-readme](https://github.com/Pop101/github-full-activity-readme)
-3. 📦 Pushed to [Pop101](https://github.com/Pop101/Pop101)
-4. 📦 Pushed 10 commits to [Github-full-activity-readme](https://github.com/Pop101/github-full-activity-readme)
-5. ⭐️ Starred [Ugit](https://github.com/turfptax/ugit)
+1. 📦 Pushed 5 commits to [Peopledle](https://github.com/Pop101/Peopledle)
+2. 🎉 Created [Github-full-activity-readme](https://github.com/Pop101/github-full-activity-readme)
+3. 📦 Pushed to [Github-full-activity-readme](https://github.com/Pop101/github-full-activity-readme)
+4. 📦 Pushed to [Pop101](https://github.com/Pop101/Pop101)
+5. 📦 Pushed 10 commits to [Github-full-activity-readme](https://github.com/Pop101/github-full-activity-readme)
 <!--END_SECTION:activity-->
 
 #### Show some ❤️ by starring some of my repositories
