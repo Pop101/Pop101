@@ -15,11 +15,11 @@ I'm a software developer and computer science student at the University of Washi
 
 ---
 <!--START_SECTION:activity-->
-1. 🎉 Created [RockPaperScissorsTournament](https://github.com/NoxNovus/RockPaperScissorsTournament)
-2. 🎉 Open sourced [Peopledle](https://github.com/Pop101/Peopledle)
-3. 📦 Pushed 5 commits to [Peopledle](https://github.com/Pop101/Peopledle)
-4. 🎉 Created [Github-full-activity-readme](https://github.com/Pop101/github-full-activity-readme)
-5. 📦 Pushed to [Github-full-activity-readme](https://github.com/Pop101/github-full-activity-readme)
+1. 📦 Pushed 2 commits to [RockPaperScissorsTournament](https://github.com/NoxNovus/RockPaperScissorsTournament)
+2. 🎉 Created [RockPaperScissorsTournament](https://github.com/NoxNovus/RockPaperScissorsTournament)
+3. 🎉 Open sourced [Peopledle](https://github.com/Pop101/Peopledle)
+4. 📦 Pushed 5 commits to [Peopledle](https://github.com/Pop101/Peopledle)
+5. 🎉 Created [Github-full-activity-readme](https://github.com/Pop101/github-full-activity-readme)
 <!--END_SECTION:activity-->
 
 #### Show some ❤️ by starring some of my repositories
