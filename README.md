@@ -15,8 +15,8 @@ I'm a software developer and computer science student at the University of Washi
 
 ---
 <!--START_SECTION:activity-->
-1. ⭐️ Starred [Spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker)
-2. 📦 Pushed 2 commits to [RockPaperScissorsTournament](https://github.com/NoxNovus/RockPaperScissorsTournament)
+1. 📦 Pushed 2 commits to [RockPaperScissorsTournament](https://github.com/NoxNovus/RockPaperScissorsTournament)
+2. ⭐️ Starred [Spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker)
 3. 🎉 Created [RockPaperScissorsTournament](https://github.com/NoxNovus/RockPaperScissorsTournament)
 4. 🎉 Open sourced [Peopledle](https://github.com/Pop101/Peopledle)
 5. 📦 Pushed 5 commits to [Peopledle](https://github.com/Pop101/Peopledle)
