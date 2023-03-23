@@ -15,11 +15,11 @@ I'm a software developer and computer science student at the University of Washi
 
 ---
 <!--START_SECTION:activity-->
-1. 📦 Pushed 2 commits to [Fen-link-site](https://github.com/kynadev/fen-link-site)
-2. 📦 Pushed 27 commits to [Peopledle](https://github.com/Pop101/Peopledle)
-3. 📦 Pushed 6 commits to [RockPaperScissorsTournament](https://github.com/NoxNovus/RockPaperScissorsTournament)
-4. ⭐️ Starred [Spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker)
-5. 📦 Pushed 2 commits to [RockPaperScissorsTournament](https://github.com/NoxNovus/RockPaperScissorsTournament)
+1. 📦 Pushed 4 commits to [RockPaperScissorsTournament](https://github.com/NoxNovus/RockPaperScissorsTournament)
+2. 📦 Pushed 2 commits to [Fen-link-site](https://github.com/kynadev/fen-link-site)
+3. 📦 Pushed 27 commits to [Peopledle](https://github.com/Pop101/Peopledle)
+4. 📦 Pushed 6 commits to [RockPaperScissorsTournament](https://github.com/NoxNovus/RockPaperScissorsTournament)
+5. ⭐️ Starred [Spectre-meltdown-checker](https://github.com/speed47/spectre-meltdown-checker)
 <!--END_SECTION:activity-->
 
 #### Show some ❤️ by starring some of my repositories
