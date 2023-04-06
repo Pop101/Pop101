@@ -15,7 +15,7 @@ I'm a software developer and computer science student at the University of Washi
 
 ---
 <!--START_SECTION:activity-->
-1. 📦 Pushed 21 commits to [RPSTournament](https://github.com/NoxNovus/RPSTournament)
+1. 📦 Pushed 22 commits to [RPSTournament](https://github.com/NoxNovus/RPSTournament)
 2. 📦 Pushed 2 commits to [Fen-link-site](https://github.com/kynadev/fen-link-site)
 3. 📦 Pushed 27 commits to [Peopledle](https://github.com/Pop101/Peopledle)
 4. 📦 Pushed 6 commits to [RockPaperScissorsTournament](https://github.com/NoxNovus/RockPaperScissorsTournament)
