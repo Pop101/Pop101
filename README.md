@@ -15,11 +15,11 @@ I'm a software developer and computer science student at the University of Washi
 
 ---
 <!--START_SECTION:activity-->
-1. ⭐️ Starred [Todo](https://github.com/simoniz0r/todo)
-2. ⭐️ Starred [Markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced)
-3. 📦 Pushed 22 commits to [RPSTournament](https://github.com/NoxNovus/RPSTournament)
-4. 📦 Pushed 2 commits to [Fen-link-site](https://github.com/kynadev/fen-link-site)
-5. 📦 Pushed 27 commits to [Peopledle](https://github.com/Pop101/Peopledle)
+1. 🎉 Open sourced [SpotifyPredictor](https://github.com/Pop101/SpotifyPredictor)
+2. ⭐️ Starred [Todo](https://github.com/simoniz0r/todo)
+3. ⭐️ Starred [Markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced)
+4. 📦 Pushed 22 commits to [RPSTournament](https://github.com/NoxNovus/RPSTournament)
+5. 📦 Pushed 2 commits to [Fen-link-site](https://github.com/kynadev/fen-link-site)
 <!--END_SECTION:activity-->
 
 #### Show some ❤️ by starring some of my repositories
