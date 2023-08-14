@@ -15,7 +15,7 @@ I'm a software developer and computer science student at the University of Washi
 
 ---
 <!--START_SECTION:activity-->
-1. 📦 Pushed 22 commits to [SpotifyPredictor](https://github.com/Pop101/SpotifyPredictor)
+1. 📦 Pushed 7 commits to [SpotifyPredictor](https://github.com/Pop101/SpotifyPredictor)
 2. 🎉 Open sourced [SpotifyPredictor](https://github.com/Pop101/SpotifyPredictor)
 3. ⭐️ Starred [Todo](https://github.com/simoniz0r/todo)
 4. ⭐️ Starred [Markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced)
