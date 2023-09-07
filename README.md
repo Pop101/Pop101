@@ -10,7 +10,7 @@ I'm a software developer and computer science student at the University of Washi
 
 <div align="middle">
 <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pop101&layout=compact&theme=transparent&hide_border=true&hide=css">
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=Pop101&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide=issues,contribs">
+<img align="top" src="https://github-readme-stats.vercel.app/api?username=Pop101&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide=issues&include_all_commits&hide_rank=true">
 </div>
 
 ---
