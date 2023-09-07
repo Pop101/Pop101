@@ -15,11 +15,11 @@ I'm a software developer and computer science student at the University of Washi
 
 ---
 <!--START_SECTION:activity-->
-1. 📦 Pushed 10 commits to [SpotifyPredictor](https://github.com/Pop101/SpotifyPredictor)
-2. ⭐️ Starred [Image-quality-assessment](https://github.com/idealo/image-quality-assessment)
-3. 📦 Pushed 11 commits to [SpotifyPredictor](https://github.com/Pop101/SpotifyPredictor)
-4. ⭐️ Starred [Markdown-preview-enhanced](https://github.com/shd101wyy/markdown-preview-enhanced)
-5. 📦 Pushed 11 commits to [RPSTournament](https://github.com/NoxNovus/RPSTournament)
+1. 🎉 Open sourced [ShortUrls](https://github.com/Pop101/ShortUrls)
+2. 📦 Pushed to [HuskyFetch](https://github.com/Pop101/HuskyFetch)
+3. 📦 Pushed to [Pop101](https://github.com/Pop101/Pop101)
+4. 📦 Pushed 3 commits to [Peopledle](https://github.com/Pop101/Peopledle)
+5. 📦 Pushed 2 commits to [HuskyFetch](https://github.com/Pop101/HuskyFetch)
 <!--END_SECTION:activity-->
 
 #### Show some ❤️ by starring some of my repositories
