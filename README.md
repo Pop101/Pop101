@@ -15,11 +15,11 @@ I'm a software developer and computer science student at the University of Washi
 
 ---
 <!--START_SECTION:activity-->
-1. 🎉 Created [SedOnline](https://github.com/Pop101/SedOnline)
-2. 🎉 Open sourced [ShortUrls](https://github.com/Pop101/ShortUrls)
-3. 📦 Pushed to [HuskyFetch](https://github.com/Pop101/HuskyFetch)
-4. 📦 Pushed to [Pop101](https://github.com/Pop101/Pop101)
-5. 📦 Pushed 3 commits to [Peopledle](https://github.com/Pop101/Peopledle)
+1. 📦 Pushed to [SpotifyPredictor](https://github.com/Pop101/SpotifyPredictor)
+2. 🎉 Created [SedOnline](https://github.com/Pop101/SedOnline)
+3. 🎉 Open sourced [ShortUrls](https://github.com/Pop101/ShortUrls)
+4. 📦 Pushed to [HuskyFetch](https://github.com/Pop101/HuskyFetch)
+5. 📦 Pushed to [Pop101](https://github.com/Pop101/Pop101)
 <!--END_SECTION:activity-->
 
 #### Show some ❤️ by starring some of my repositories
