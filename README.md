@@ -15,11 +15,11 @@ I'm a software developer and computer science student at the University of Washi
 
 ---
 <!--START_SECTION:activity-->
-1. 🎉 Open sourced [FantasyTrader](https://github.com/Pop101/FantasyTrader)
-2. 📦 Pushed 3 commits to [FantasyTrader](https://github.com/Pop101/FantasyTrader)
-3. 📦 Pushed to [SpotifyPredictor](https://github.com/Pop101/SpotifyPredictor)
-4. 🎉 Created [SedOnline](https://github.com/Pop101/SedOnline)
-5. 🎉 Open sourced [ShortUrls](https://github.com/Pop101/ShortUrls)
+1. 📦 Pushed 4 commits to [FantasyTrader](https://github.com/Pop101/FantasyTrader)
+2. 🎉 Open sourced [FantasyTrader](https://github.com/Pop101/FantasyTrader)
+3. 📦 Pushed 3 commits to [FantasyTrader](https://github.com/Pop101/FantasyTrader)
+4. 📦 Pushed to [SpotifyPredictor](https://github.com/Pop101/SpotifyPredictor)
+5. 🎉 Created [SedOnline](https://github.com/Pop101/SedOnline)
 <!--END_SECTION:activity-->
 
 #### Show some ❤️ by starring some of my repositories
