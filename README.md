@@ -15,7 +15,7 @@ I'm a software developer and computer science student at the University of Washi
 
 ---
 <!--START_SECTION:activity-->
-1. 📦 Pushed 5 commits to [FantasyTrader](https://github.com/Pop101/FantasyTrader)
+1. 📦 Pushed 13 commits to [FantasyTrader](https://github.com/Pop101/FantasyTrader)
 2. 🎉 Open sourced [FantasyTrader](https://github.com/Pop101/FantasyTrader)
 3. 📦 Pushed 3 commits to [FantasyTrader](https://github.com/Pop101/FantasyTrader)
 4. 📦 Pushed to [SpotifyPredictor](https://github.com/Pop101/SpotifyPredictor)
