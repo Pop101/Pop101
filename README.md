@@ -15,11 +15,11 @@ I'm a software developer and computer science student at the University of Washi
 
 ---
 <!--START_SECTION:activity-->
-1. ⭐️ Starred [Amen](https://github.com/algorithmic-music-exploration/amen)
-2. 📦 Pushed 2 commits to [SpotifyPredictor](https://github.com/Pop101/SpotifyPredictor)
-3. ⭐️ Starred [SpotiFile](https://github.com/Michael-K-Stein/SpotiFile)
-4. ⭐️ Starred [Dots-hyprland](https://github.com/end-4/dots-hyprland)
-5. ⭐️ Starred [Comtrya](https://github.com/comtrya/comtrya)
+1. 📦 Pushed 15 commits to [SpotifyPredictor](https://github.com/Pop101/SpotifyPredictor)
+2. ⭐️ Starred [Amen](https://github.com/algorithmic-music-exploration/amen)
+3. 📦 Pushed 2 commits to [SpotifyPredictor](https://github.com/Pop101/SpotifyPredictor)
+4. ⭐️ Starred [SpotiFile](https://github.com/Michael-K-Stein/SpotiFile)
+5. ⭐️ Starred [Dots-hyprland](https://github.com/end-4/dots-hyprland)
 <!--END_SECTION:activity-->
 
 #### Show some ❤️ by starring some of my repositories
