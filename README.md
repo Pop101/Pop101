@@ -16,11 +16,11 @@ I'm a software developer and Computer Science graduate from the University of Wa
 
 ---
 <!--START_SECTION:activity-->
-1. 📦 Pushed 18 commits to [SpotifyPredictor](https://github.com/Pop101/SpotifyPredictor)
-2. ⭐️ Starred [Amen](https://github.com/algorithmic-music-exploration/amen)
-3. 📦 Pushed 2 commits to [SpotifyPredictor](https://github.com/Pop101/SpotifyPredictor)
-4. ⭐️ Starred [SpotiFile](https://github.com/Michael-K-Stein/SpotiFile)
-5. ⭐️ Starred [Dots-hyprland](https://github.com/end-4/dots-hyprland)
+1. 📦 Pushed 19 commits to [RateMeAI](https://github.com/Pop101/RateMeAI)
+2. 📦 Pushed to [Imgur-album-downloader](https://github.com/Pop101/imgur-album-downloader)
+3. 📦 Pushed 2 commits to [RateMeAI](https://github.com/Pop101/RateMeAI)
+4. 📦 Pushed 3 commits to [Imgur-album-downloader](https://github.com/Pop101/imgur-album-downloader)
+5. 📦 Pushed to [RateMeAI](https://github.com/Pop101/RateMeAI)
 <!--END_SECTION:activity-->
 
 #### Show some ❤️ by starring some of my repositories
