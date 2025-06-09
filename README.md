@@ -16,10 +16,10 @@ I'm a software developer and Computer Science graduate from the University of Wa
 
 ---
 <!--START_SECTION:activity-->
-1. 📦 Pushed to [Pop101](https://github.com/Pop101/Pop101)
-2. 📦 Pushed 19 commits to [RateMeAI](https://github.com/Pop101/RateMeAI)
-3. 📦 Pushed to [Imgur-album-downloader](https://github.com/Pop101/imgur-album-downloader)
-4. 📦 Pushed 2 commits to [RateMeAI](https://github.com/Pop101/RateMeAI)
+1. 📦 Pushed to [GeolocateAI](https://github.com/Pop101/GeolocateAI)
+2. 🎉 Created [GeolocateAI](https://github.com/Pop101/GeolocateAI)
+3. 📦 Pushed to [Pop101](https://github.com/Pop101/Pop101)
+4. 📦 Pushed 19 commits to [RateMeAI](https://github.com/Pop101/RateMeAI)
 5. 📦 Pushed 3 commits to [Imgur-album-downloader](https://github.com/Pop101/imgur-album-downloader)
 <!--END_SECTION:activity-->
 
