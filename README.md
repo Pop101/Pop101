@@ -16,9 +16,9 @@ I'm a software developer and Computer Science graduate from the University of Wa
 
 ---
 <!--START_SECTION:activity-->
-1. 🎉 Created [DiarizationClient](https://github.com/Pop101/DiarizationClient)
-2. ⭐️ Starred [Resume-ai](https://github.com/kipiiler/resume-ai)
-3. 📦 Pushed to [GeolocateAI](https://github.com/Pop101/GeolocateAI)
+1. 📦 Pushed to [GeolocateAI](https://github.com/Pop101/GeolocateAI)
+2. 🎉 Created [DiarizationClient](https://github.com/Pop101/DiarizationClient)
+3. ⭐️ Starred [Resume-ai](https://github.com/kipiiler/resume-ai)
 4. 🎉 Created [GeolocateAI](https://github.com/Pop101/GeolocateAI)
 5. 📦 Pushed 3 commits to [Imgur-album-downloader](https://github.com/Pop101/imgur-album-downloader)
 <!--END_SECTION:activity-->
