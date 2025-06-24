@@ -16,11 +16,11 @@ I'm a software developer and Computer Science graduate from the University of Wa
 
 ---
 <!--START_SECTION:activity-->
-1. 📦 Pushed 16 commits to [GeolocateAI](https://github.com/Pop101/GeolocateAI)
-2. 🎉 Created [DiarizationClient](https://github.com/Pop101/DiarizationClient)
-3. ⭐️ Starred [Resume-ai](https://github.com/kipiiler/resume-ai)
-4. 📦 Pushed to [GeolocateAI](https://github.com/Pop101/GeolocateAI)
-5. 🎉 Created [GeolocateAI](https://github.com/Pop101/GeolocateAI)
+1. ⭐️ Starred [Meme-clustering](https://github.com/tygobl/meme-clustering)
+2. 📦 Pushed 17 commits to [GeolocateAI](https://github.com/Pop101/GeolocateAI)
+3. 🎉 Created [DiarizationClient](https://github.com/Pop101/DiarizationClient)
+4. ⭐️ Starred [Resume-ai](https://github.com/kipiiler/resume-ai)
+5. 📦 Pushed to [GeolocateAI](https://github.com/Pop101/GeolocateAI)
 <!--END_SECTION:activity-->
 
 #### Show some ❤️ by starring some of my repositories
