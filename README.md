@@ -16,11 +16,11 @@ I'm a software developer and Computer Science graduate from the University of Wa
 
 ---
 <!--START_SECTION:activity-->
-1. 📦 Pushed 7 commits to [PythonClient](https://github.com/Westbold/PythonClient)
-2. 🎉 Merged PR [#1](https://github.com/Westbold/PythonClient/pull/1) in [PythonClient](https://github.com/Westbold/PythonClient)
-3. 📦 Pushed 15 commits to [PythonClient](https://github.com/Westbold/PythonClient)
-4. 💪 Opened PR [#1](https://github.com/Westbold/PythonClient/pull/1) in [PythonClient](https://github.com/Westbold/PythonClient)
-5. 📦 Pushed 4 commits to [PythonClient](https://github.com/Westbold/PythonClient)
+1. 📦 Pushed 2 commits to [PythonClient](https://github.com/Westbold/PythonClient)
+2. 📦 Pushed 13 commits to [PythonClient](https://github.com/Westbold/PythonClient)
+3. 🎉 Merged PR [#1](https://github.com/Westbold/PythonClient/pull/1) in [PythonClient](https://github.com/Westbold/PythonClient)
+4. 📦 Pushed 15 commits to [PythonClient](https://github.com/Westbold/PythonClient)
+5. 💪 Opened PR [#1](https://github.com/Westbold/PythonClient/pull/1) in [PythonClient](https://github.com/Westbold/PythonClient)
 <!--END_SECTION:activity-->
 
 #### Show some ❤️ by starring some of my repositories
