@@ -16,11 +16,11 @@ I'm a software developer and Computer Science graduate from the University of Wa
 
 ---
 <!--START_SECTION:activity-->
-1. 📦 Pushed 2 commits to [PythonClient](https://github.com/Westbold/PythonClient)
-2. ⭐️ Starred [Widdershins](https://github.com/Mermade/widdershins)
-3. 📦 Pushed 57 commits to [GeolocateAI](https://github.com/Pop101/GeolocateAI)
-4. 📦 Pushed to [GeolocateAI](https://github.com/Pop101/GeolocateAI)
-5. ⭐️ Starred [Meme-clustering](https://github.com/tygobl/meme-clustering)
+1. 📦 Pushed 9 commits to [PythonClient](https://github.com/Westbold/PythonClient)
+2. 💪 Opened PR [#1](https://github.com/Westbold/PythonClient/pull/1) in [PythonClient](https://github.com/Westbold/PythonClient)
+3. 📦 Pushed 4 commits to [PythonClient](https://github.com/Westbold/PythonClient)
+4. ⭐️ Starred [Widdershins](https://github.com/Mermade/widdershins)
+5. 📦 Pushed 57 commits to [GeolocateAI](https://github.com/Pop101/GeolocateAI)
 <!--END_SECTION:activity-->
 
 #### Show some ❤️ by starring some of my repositories
