@@ -16,9 +16,9 @@ I'm a software developer and Computer Science graduate from the University of Wa
 
 ---
 <!--START_SECTION:activity-->
-1. ⭐️ Starred [Widdershins](https://github.com/Mermade/widdershins)
-2. 📦 Pushed 57 commits to [GeolocateAI](https://github.com/Pop101/GeolocateAI)
-3. ⭐️ Starred [AdalFlow](https://github.com/SylphAI-Inc/AdalFlow)
+1. 📦 Pushed 2 commits to [PythonClient](https://github.com/Westbold/PythonClient)
+2. ⭐️ Starred [Widdershins](https://github.com/Mermade/widdershins)
+3. 📦 Pushed 57 commits to [GeolocateAI](https://github.com/Pop101/GeolocateAI)
 4. 📦 Pushed to [GeolocateAI](https://github.com/Pop101/GeolocateAI)
 5. ⭐️ Starred [Meme-clustering](https://github.com/tygobl/meme-clustering)
 <!--END_SECTION:activity-->
