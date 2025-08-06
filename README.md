@@ -17,10 +17,10 @@ I'm a software developer and Computer Science graduate from the University of Wa
 ---
 <!--START_SECTION:activity-->
 1. 📦 Pushed to [PythonClient](https://github.com/Westbold/PythonClient)
-2. 📦 Pushed 11 commits to [PythonClient](https://github.com/Westbold/PythonClient)
-3. 📦 Pushed 13 commits to [PythonClient](https://github.com/Westbold/PythonClient)
-4. 🎉 Merged PR [#1](https://github.com/Westbold/PythonClient/pull/1) in [PythonClient](https://github.com/Westbold/PythonClient)
-5. 📦 Pushed 15 commits to [PythonClient](https://github.com/Westbold/PythonClient)
+2. 🎉 Merged PR [#2](https://github.com/Westbold/PythonClient/pull/2) in [PythonClient](https://github.com/Westbold/PythonClient)
+3. 💪 Opened PR [#2](https://github.com/Westbold/PythonClient/pull/2) in [PythonClient](https://github.com/Westbold/PythonClient)
+4. 🎉 Created [PythonClient](https://github.com/Westbold/PythonClient)
+5. ⭐️ Starred [Maigret](https://github.com/soxoj/maigret)
 <!--END_SECTION:activity-->
 
 #### Show some ❤️ by starring some of my repositories
