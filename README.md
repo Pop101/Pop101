@@ -16,11 +16,11 @@ I'm a software developer and Computer Science graduate from the University of Wa
 
 ---
 <!--START_SECTION:activity-->
-1. ⭐️ Starred [OSX-KVM](https://github.com/kholia/OSX-KVM)
-2. 📦 Pushed to [PythonClient](https://github.com/Westbold/PythonClient)
-3. 🎉 Merged PR [#2](https://github.com/Westbold/PythonClient/pull/2) in [PythonClient](https://github.com/Westbold/PythonClient)
-4. 💪 Opened PR [#2](https://github.com/Westbold/PythonClient/pull/2) in [PythonClient](https://github.com/Westbold/PythonClient)
-5. 🎉 Created [PythonClient](https://github.com/Westbold/PythonClient)
+1. ⭐️ Starred [Nanobrowser](https://github.com/nanobrowser/nanobrowser)
+2. ⭐️ Starred [OSX-KVM](https://github.com/kholia/OSX-KVM)
+3. 📦 Pushed to [PythonClient](https://github.com/Westbold/PythonClient)
+4. 🎉 Merged PR [#2](https://github.com/Westbold/PythonClient/pull/2) in [PythonClient](https://github.com/Westbold/PythonClient)
+5. 💪 Opened PR [#2](https://github.com/Westbold/PythonClient/pull/2) in [PythonClient](https://github.com/Westbold/PythonClient)
 <!--END_SECTION:activity-->
 
 #### Show some ❤️ by starring some of my repositories
