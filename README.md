@@ -16,11 +16,11 @@ I'm a software developer and Computer Science graduate from the University of Wa
 
 ---
 <!--START_SECTION:activity-->
-1. ⭐️ Starred [Dyad](https://github.com/dyad-sh/dyad)
-2. ⭐️ Starred [Nanobrowser](https://github.com/nanobrowser/nanobrowser)
-3. ⭐️ Starred [OSX-KVM](https://github.com/kholia/OSX-KVM)
-4. 📦 Pushed to [PythonClient](https://github.com/Westbold/PythonClient)
-5. 🎉 Merged PR [#2](https://github.com/Westbold/PythonClient/pull/2) in [PythonClient](https://github.com/Westbold/PythonClient)
+1. ⭐️ Starred [Lorax](https://github.com/predibase/lorax)
+2. ⭐️ Starred [Dyad](https://github.com/dyad-sh/dyad)
+3. ⭐️ Starred [Nanobrowser](https://github.com/nanobrowser/nanobrowser)
+4. ⭐️ Starred [OSX-KVM](https://github.com/kholia/OSX-KVM)
+5. 📦 Pushed to [PythonClient](https://github.com/Westbold/PythonClient)
 <!--END_SECTION:activity-->
 
 #### Show some ❤️ by starring some of my repositories
