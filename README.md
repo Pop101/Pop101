@@ -16,11 +16,11 @@ I'm a software developer and Computer Science graduate from the University of Wa
 
 ---
 <!--START_SECTION:activity-->
-1. ⭐️ Starred [Macosvm_virtualbox_windows](https://github.com/jensdepuydt/macosvm_virtualbox_windows)
-2. ⭐️ Starred [Lorax](https://github.com/predibase/lorax)
-3. ⭐️ Starred [Dyad](https://github.com/dyad-sh/dyad)
-4. ⭐️ Starred [Nanobrowser](https://github.com/nanobrowser/nanobrowser)
-5. ⭐️ Starred [Dyad](https://github.com/dyad-sh/dyad)
+1. 📦 Pushed 4 commits to [PythonClient](https://github.com/Westbold/PythonClient)
+2. 💪 Opened PR [#4](https://github.com/Westbold/PythonClient/pull/4) in [PythonClient](https://github.com/Westbold/PythonClient)
+3. 🎉 Created [PythonClient](https://github.com/Westbold/PythonClient)
+4. 💪 Opened PR [#3](https://github.com/Westbold/PythonClient/pull/3) in [PythonClient](https://github.com/Westbold/PythonClient)
+5. ⭐️ Starred [Macosvm_virtualbox_windows](https://github.com/jensdepuydt/macosvm_virtualbox_windows)
 <!--END_SECTION:activity-->
 
 #### Show some ❤️ by starring some of my repositories
