@@ -16,11 +16,11 @@ I'm a software developer and Computer Science graduate from the University of Wa
 
 ---
 <!--START_SECTION:activity-->
-1. 📦 Pushed 4 commits to [PythonClient](https://github.com/Westbold/PythonClient)
-2. 💪 Opened PR [#4](https://github.com/Westbold/PythonClient/pull/4) in [PythonClient](https://github.com/Westbold/PythonClient)
-3. 🎉 Created [PythonClient](https://github.com/Westbold/PythonClient)
-4. 💪 Opened PR [#3](https://github.com/Westbold/PythonClient/pull/3) in [PythonClient](https://github.com/Westbold/PythonClient)
-5. ⭐️ Starred [Macosvm_virtualbox_windows](https://github.com/jensdepuydt/macosvm_virtualbox_windows)
+1. ⭐️ Starred [Explainerdashboard](https://github.com/oegedijk/explainerdashboard)
+2. 📦 Pushed 4 commits to [PythonClient](https://github.com/Westbold/PythonClient)
+3. 💪 Opened PR [#4](https://github.com/Westbold/PythonClient/pull/4) in [PythonClient](https://github.com/Westbold/PythonClient)
+4. 🎉 Created [PythonClient](https://github.com/Westbold/PythonClient)
+5. 💪 Opened PR [#3](https://github.com/Westbold/PythonClient/pull/3) in [PythonClient](https://github.com/Westbold/PythonClient)
 <!--END_SECTION:activity-->
 
 #### Show some ❤️ by starring some of my repositories
