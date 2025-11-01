@@ -16,9 +16,9 @@ I'm a software developer and Computer Science graduate from the University of Wa
 
 ---
 <!--START_SECTION:activity-->
-1. ⭐️ Starred [Diart](https://github.com/juanmc2005/diart)
-2. ⭐️ Starred [Explainerdashboard](https://github.com/oegedijk/explainerdashboard)
-3. 💪 Opened PR [#4](https://github.com/Westbold/PythonClient/pull/4) in [PythonClient](https://github.com/Westbold/PythonClient)
+1. 🎉 Created [ActualAI](https://github.com/Pop101/ActualAI)
+2. ⭐️ Starred [Diart](https://github.com/juanmc2005/diart)
+3. ⭐️ Starred [Explainerdashboard](https://github.com/oegedijk/explainerdashboard)
 4. 🎉 Created [PythonClient](https://github.com/Westbold/PythonClient)
 5. 💪 Opened PR [#3](https://github.com/Westbold/PythonClient/pull/3) in [PythonClient](https://github.com/Westbold/PythonClient)
 <!--END_SECTION:activity-->
