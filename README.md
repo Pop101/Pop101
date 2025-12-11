@@ -16,9 +16,9 @@ I'm a software developer and Computer Science graduate from the University of Wa
 
 ---
 <!--START_SECTION:activity-->
-1. ⭐️ Starred [N8n-workflows](https://github.com/Zie619/n8n-workflows)
-2. 🎉 Created [ActualAI](https://github.com/Pop101/ActualAI)
-3. ⭐️ Starred [Diart](https://github.com/juanmc2005/diart)
+1. ⭐️ Starred [PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)
+2. 🎉 Created [ActualNotify](https://github.com/Pop101/ActualNotify)
+3. 🎉 Created [Chatterbox-mod](https://github.com/conversa-labs/chatterbox-mod)
 4. ⭐️ Starred [Explainerdashboard](https://github.com/oegedijk/explainerdashboard)
 5. 💪 Opened PR [#3](https://github.com/Westbold/PythonClient/pull/3) in [PythonClient](https://github.com/Westbold/PythonClient)
 <!--END_SECTION:activity-->
