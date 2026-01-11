@@ -19,6 +19,7 @@ jobs:
       - uses: actions/checkout@v4
 
       - uses: Pop101/github-full-activity-readme@master
+        continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
