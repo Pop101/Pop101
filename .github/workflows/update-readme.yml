@@ -2,16 +2,80 @@ name: Update README
 
 on:
   schedule:
-    - cron: "0 5-20 * * *"
+    - cron: "0 0 * * *" # Runs once daily at midnight
   workflow_dispatch:
+
+permissions: {}
 
 jobs:
   build:
     runs-on: ubuntu-latest
     name: Update this repo's README with recent activity
 
+    permissions:
+      contents: write
+
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
+
       - uses: Pop101/github-full-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide=issues,contribs&include_all_commits=true&hide_rank=true
+          path: .github/images/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=transparent&hide_border=true&hide=css,jupyter%20notebook&langs_count=8
+          path: .github/images/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card (donut)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=donut&theme=transparent&hide_border=true&hide=css,jupyter%20notebook&langs_count=8
+          path: .github/images/top-langs-donut.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card (pie)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=pie&theme=transparent&hide_border=true&hide=css,jupyter%20notebook&langs_count=8
+          path: .github/images/top-langs-pie.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate WakaTime stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: wakatime
+          options: username=Pop101&theme=transparent&hide_border=true&langs_count=8
+          path: .github/images/wakatime.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate WakaTime stats card (compact)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: wakatime
+          options: username=Pop101&layout=compact&theme=transparent&hide_border=true&langs_count=8
+          path: .github/images/wakatime-compact.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak stats
+        run: |
+          curl -o .github/images/streak.svg "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=transparent&hide_border=true"
+
+      - name: Commit stats
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update github stats"
+          file_pattern: ".github/images/*.svg README.md"
