@@ -72,8 +72,16 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate streak stats
+        continue-on-error: true
         run: |
-          curl -o .github/images/streak.svg "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=transparent&hide_border=true"
+          mkdir -p .github/images
+          curl -sS -L -o .github/images/streak.svg "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=transparent&hide_border=true&ring=FFA300&fire=EB5454&currStreakLabel=EB5454&currStreakNum=EB5454" || true
+
+          if [ ! -s .github/images/streak.svg ] || grep -qi "failed to" .github/images/streak.svg; then
+            echo "Streak stats SVG looks invalid; restoring previous streak.svg"
+            git checkout -- .github/images/streak.svg 2>/dev/null || rm -f .github/images/streak.svg
+            exit 1
+          fi
 
       - name: Commit stats
         uses: stefanzweifel/git-auto-commit-action@v5
