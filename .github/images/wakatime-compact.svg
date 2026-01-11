@@ -108,7 +108,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >WakaTime Stats</text>
+      >WakaTime Stats (last year)</text>
     </g>
       </g>
     
@@ -125,7 +125,7 @@
       </mask>
       
       
-    <text x="25" y="11" class="stat bold" fill="#417E87">WakaTime user profile not public</text>
+    <text x="25" y="11" class="stat bold" fill="#417E87">User doesn't publicly share detailed code statistics</text>
   
     
     </svg>
