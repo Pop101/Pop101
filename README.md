@@ -16,8 +16,8 @@ I'm a software developer and Computer Science graduate from the University of Wa
 
 ---
 <!--START_SECTION:activity-->
-1. ⭐️ Starred [PowerInfer](https://github.com/SJTU-IPADS/PowerInfer)
-2. 🎉 Created [ActualNotify](https://github.com/Pop101/ActualNotify)
+1. 🎉 Created [Uwb-capstone](https://github.com/WhenPigsInvade/uwb-capstone)
+2. ⭐️ Starred [Awesome-copilot](https://github.com/github/awesome-copilot)
 3. 🎉 Created [Chatterbox-mod](https://github.com/conversa-labs/chatterbox-mod)
 4. ⭐️ Starred [Explainerdashboard](https://github.com/oegedijk/explainerdashboard)
 5. 💪 Opened PR [#3](https://github.com/Westbold/PythonClient/pull/3) in [PythonClient](https://github.com/Westbold/PythonClient)
