@@ -16,7 +16,7 @@ I'm a software developer and Computer Science graduate from the University of Wa
 
 ---
 <!--START_SECTION:activity-->
-1. 🎉 Created [Recap](https://github.com/Pop101/Recap)
+1. ⭐️ Starred [PersistentWindows](https://github.com/kangyu-california/PersistentWindows)
 2. ⭐️ Starred [Awesome-copilot](https://github.com/github/awesome-copilot)
 3. 🎉 Created [Chatterbox-mod](https://github.com/conversa-labs/chatterbox-mod)
 4. ⭐️ Starred [Explainerdashboard](https://github.com/oegedijk/explainerdashboard)
