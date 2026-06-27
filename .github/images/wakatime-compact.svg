@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="217.899"
+            width="217.99200000000002"
             height="8"
             fill="#178600"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="217.899"
+            x="217.99200000000002"
             y="0"
-            width="73.42349999999999"
+            width="73.377"
             height="8"
             fill="#00B4AB"
           />
@@ -147,7 +147,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="291.3225"
+            x="291.369"
             y="0"
             width="56.172"
             height="8"
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="347.4945"
+            x="347.54100000000005"
             y="0"
-            width="39.2925"
+            width="39.246"
             height="8"
             fill="#858585"
           />
@@ -179,7 +179,7 @@
             data-testid="lang-progress"
             x="413.38500000000005"
             y="0"
-            width="21.39"
+            width="21.3435"
             height="8"
             fill="#858585"
           />
@@ -187,7 +187,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="434.77500000000003"
+            x="434.72850000000005"
             y="0"
             width="16.74"
             height="8"
@@ -197,7 +197,7 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="451.51500000000004"
+            x="451.46850000000006"
             y="0"
             width="14.601"
             height="8"
@@ -208,7 +208,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#178600" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C# - 219 hrs 39 mins
+        C# - 219 hrs 50 mins
       </text>
     </g>
   
