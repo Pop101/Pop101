@@ -1,20 +1,21 @@
-# Hi, 👋 I'm Leon Leibmann.
+# Leon Leibmann
 
-I'm a software developer and Computer Science graduate from the University of Washington. You'll find me working on data science projects, exploring gen-AI applications in social media, or hunting for good food after a coding marathon.
+I'm a software engineer at Westbold, based in Portland, OR. I work on APIs, authentication, and developer tools.
 
-- 💬 Ask me about Python, Java, JS, or any of my projects!
-- 🎓 Proud Computer Science graduate from the University of Washington
-- 🚀 Always building something new from my ever-growing list of project ideas
-- 🌐 Check out my projects and experience on [my website](https://leibmann.org)!
-- 📫 You can reach me at [contact@leibmann.org](mailto:contact@leibmann.org)
-- 📄 [Resume](https://leibmann.org/Leon_Leibmann_Resume.pdf)
+I helped ship [Textverified’s MCP integration](https://www.textverified.com/ai-agents) and its OAuth authorization flow. Users can connect an AI assistant in the browser and choose what it can read or do without copying an API key.
 
-<div align="middle">
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pop101&layout=compact&theme=transparent&hide_border=true&hide=css,jupyter%20notebook">
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=Pop101&show_icons=true&theme=transparent&hide_border=true&count_private=true&hide=issues&include_all_commits&hide_rank=true">
-</div>
+## Selected work
 
----
+- [EasyLabel](https://github.com/Pop101/EasyLabel): A terminal tool for labeling datasets. The layout was inspired by the color-coded buttons on a cash register.
+- [GitHub Activity README](https://github.com/Pop101/github-full-activity-readme): A GitHub Action that keeps a README’s recent activity section up to date, including the one below.
+- [Online community governance research](https://doi.org/10.1145/3757644): I worked with UW’s Behavioral Data Science Lab on how moderators see the rules and practices that govern their communities. Published at CSCW 2025.
+
+I earned my B.S. in Computer Science at the University of Washington in 2025.
+
+[Portfolio](https://leibmann.org) · [Résumé](https://github.com/Pop101/PortfolioSite/blob/main/Leon_Leibmann_Resume.pdf) · [Email](mailto:contact@leibmann.org)
+
+## Recent activity
+
 <!--START_SECTION:activity-->
 1. 🎉 Created [Tasker-notification-forwarder](https://github.com/Pop101/tasker-notification-forwarder)
 2. ⭐️ Starred [Awesome-copilot](https://github.com/github/awesome-copilot)
@@ -23,4 +24,10 @@ I'm a software developer and Computer Science graduate from the University of Wa
 5. 💪 Opened PR [#3](https://github.com/Westbold/PythonClient/pull/3) in [PythonClient](https://github.com/Westbold/PythonClient)
 <!--END_SECTION:activity-->
 
-#### Show some ❤️ by starring some of my repositories
+<details>
+<summary>Coding stats</summary>
+
+![GitHub contribution stats](.github/images/stats.svg)
+![Top languages by WakaTime activity](.github/images/wakatime-compact.svg)
+
+</details>
