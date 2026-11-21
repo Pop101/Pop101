@@ -10,11 +10,11 @@ I'm a software engineer at Westbold, based in Portland, OR. I build customer-fac
 ## Research
 
 - **ICWSM 2025 Best Paper Award:** I was first author on [*Reddit Rules and Rulers*](https://ojs.aaai.org/index.php/ICWSM/article/view/35863). We studied how changes to the rules of over 5,000 Reddit communities relate to how members view their governance. [Award announcement](https://news.cs.washington.edu/2025/09/10/allen-school-researchers-receive-icwsm-best-paper-award-for-analyzing-reddit-rules/)
-- **CSCW 2025 Honorable Mention:** I co-authored [*Perceptions of Moderators as a Large-Scale Measure of Online Community Governance*](https://doi.org/10.1145/3757644).
+- **CSCW 2025 Best Paper Honorable Mention:** I co-authored [*Perceptions of Moderators as a Large-Scale Measure of Online Community Governance*](https://doi.org/10.1145/3757644).
 
 I earned my B.S. in Computer Science at the University of Washington in 2025.
 
-[Portfolio](https://leibmann.org) · [Résumé](https://github.com/Pop101/PortfolioSite/blob/main/Leon_Leibmann_Resume.pdf) · [Email](mailto:contact@leibmann.org)
+[Portfolio](https://leibmann.org) · [Email](mailto:contact@leibmann.org)
 
 ## Recent activity
 
