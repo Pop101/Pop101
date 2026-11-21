@@ -1,14 +1,16 @@
 # Leon Leibmann
 
-I'm a software engineer at Westbold, based in Portland, OR. I work on APIs, authentication, and developer tools.
+I'm a software engineer at Westbold, based in Portland, OR. I build customer-facing features and the tools to test, ship, and monitor them.
 
-I helped ship [Textverified’s MCP integration](https://www.textverified.com/ai-agents) and its OAuth authorization flow. Users can connect an AI assistant in the browser and choose what it can read or do without copying an API key.
+## Work
 
-## Selected work
+- **Textverified:** I helped ship [the MCP integration](https://www.textverified.com/ai-agents), from the tools an assistant calls to the OAuth consent screen and developer docs. I've also built service health monitoring and automated web performance checks for pull requests.
+- **[SmallHellos](https://github.com/Leyline-Labs-LLC/SmallHellos-Downloads):** An Android app for keeping in touch with people you care about. The signed Android build is available in early access.
 
-- [EasyLabel](https://github.com/Pop101/EasyLabel): A terminal tool for labeling datasets. The layout was inspired by the color-coded buttons on a cash register.
-- [GitHub Activity README](https://github.com/Pop101/github-full-activity-readme): A GitHub Action that keeps a README’s recent activity section up to date, including the one below.
-- [Online community governance research](https://doi.org/10.1145/3757644): I worked with UW’s Behavioral Data Science Lab on how moderators see the rules and practices that govern their communities. Published at CSCW 2025.
+## Research
+
+- **ICWSM 2025 Best Paper Award:** I was first author on [*Reddit Rules and Rulers*](https://ojs.aaai.org/index.php/ICWSM/article/view/35863). We studied how changes to the rules of over 5,000 Reddit communities relate to how members view their governance. [Award announcement](https://news.cs.washington.edu/2025/09/10/allen-school-researchers-receive-icwsm-best-paper-award-for-analyzing-reddit-rules/)
+- **CSCW 2025 Honorable Mention:** I co-authored [*Perceptions of Moderators as a Large-Scale Measure of Online Community Governance*](https://doi.org/10.1145/3757644).
 
 I earned my B.S. in Computer Science at the University of Washington in 2025.
 
